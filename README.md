@@ -1,2 +1,2 @@
 # ChatGPT
-My custom and cribbed prompts and recipes. 
+Custom and cribbed prompts and recipes [Forked from Les-El/ChatGPT]
